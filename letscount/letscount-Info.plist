@@ -11,7 +11,7 @@
 	<key>CFBundleIconFiles</key>
 	<array/>
 	<key>CFBundleIdentifier</key>
-	<string>com.01enter.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>com.01enter.testapp</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -27,7 +27,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIMainStoryboardFile</key>
-	<string>MainStoryboard_iPhone</string>
+	<string>MainStoryboard</string>
 	<key>UIMainStoryboardFile~ipad</key>
 	<string>MainStoryboard_iPad</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -37,8 +37,7 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
